@@ -132,7 +132,7 @@ body {
 }
 
 .list-item__input {
-  width: 226px  
+  width: 226px;
 }
 
 .list-item__delete-img {
@@ -147,18 +147,18 @@ body {
 
 /* Completed */
 .completed-list .list-item__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list-item__input {
-  display: none
+  display: none;
 }
 
 .list-item_edit-mode .list-item__input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .list-item_edit-mode .list-item__label {
